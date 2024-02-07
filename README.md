@@ -9,11 +9,11 @@ Descrição da tarefa: Você deve criar um layout próximo desse desafio do fron
 - CSS3
 - HTML5
 
-### Links
+### Links:
 
-- SITE: [Add solution URL here]([https://your-solution-url.com](https://acmaic.github.io/Gerador-de-conselhos/))
+- SITE: https://acmaic.github.io/Gerador-de-conselhos/
 
-## My process
+## Processo:
 ![image](https://github.com/ACMaic/Gerador-de-conselhos/assets/115666567/820a6629-3c75-4fb8-b64b-2e24491eac57)
 
 ![Animação](https://github.com/ACMaic/Gerador-de-conselhos/assets/115666567/95bad34c-0176-4413-8e7d-29618c39944b)
